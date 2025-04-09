@@ -84,17 +84,12 @@ Os dados são armazenados localmente em um banco **SQLite**, com estrutura prepa
 
 1. **Clone o repositorio**:
 
-bash
-
 `git clone https://github.com/AraujoTech1/brigaderia-encanto.git` 
-
 
 2. **Ative o ambiente virtual**:
 
 - No Windows:
 
- bash
- 
  `python -m venv venv` 
 
  Depois
@@ -103,13 +98,9 @@ bash
 
 3. **Instale as dependências**:
 
-bash
-
 `pip install -r requirements.txt` 
 
 4. **Rodando o projeto**:
-
-bash
 
 `streamlit run app.py` 
 
@@ -120,7 +111,6 @@ bash
 ## ⚖️ Licença ⚖️
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
-
 
 
 ---
