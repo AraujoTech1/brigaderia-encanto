@@ -18,11 +18,11 @@ O **Brigaderia Encanto** permite o cadastro do cliente e a visualização de ped
 
 |**Brigadeiro**                                                  |   **Sabor**                  |
 | -------------------------------------------------------------- | ----------------------------|
-| <img src="imagens/tradicional.png" width="100" height="100">      | **Tradicional**             |
-| <img src="imagens/nutella.png" width="100" height="100">          | **Nutella**                 |
-| <img src="imagens/brigadeiro_com_morango.png" width="100" height="100"> | **Brigadeiro com Morango**  |
-| <img src="imagens/brigadeiro_com_castanha.png" width="100" height="100"> | **Brigadeiro com Castanha** |
-| <img src="imagens/brigadeiro_com_amendoim.png" width="100" height="100"> | **Brigadeiro com Amendoim** |
+| <img src="imagens/tradicional.png" width="120" height="120">      | **Tradicional**             |
+| <img src="imagens/nutella.png" width="120" height="120">          | **Nutella**                 |
+| <img src="imagens/brigadeiro_com_morango.png" width="120" height="120"> | **Brigadeiro com Morango**  |
+| <img src="imagens/brigadeiro_com_castanha.png" width="120" height="120"> | **Brigadeiro com Castanha** |
+| <img src="imagens/brigadeiro_com_amendoim.png" width="120" height="120"> | **Brigadeiro com Amendoim** |
 
 
 - Quantidade de unidades
