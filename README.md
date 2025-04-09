@@ -18,7 +18,7 @@ O **Brigaderia Encanto** permite o cadastro do cliente e a visualização de ped
 
 |**Brigadeiro**                                                  |   **Sabor**                  |
 | -------------------------------------------------------------- | ----------------------------|
-| <img src="imagens/tradicional.png" width="130" height="130">      | **Tradicional**             |
+| <img src="imagens/tradicional.png" width="140" height="140">      | **Tradicional**             |
 | <img src="imagens/nutella.png" width="130" height="130">          | **Nutella**                 |
 | <img src="imagens/brigadeiro_com_morango.png" width="130" height="130"> | **Brigadeiro com Morango**  |
 | <img src="imagens/brigadeiro_com_castanha.png" width="130" height="130"> | **Brigadeiro com Castanha** |
