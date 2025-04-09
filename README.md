@@ -63,7 +63,6 @@ Os dados são armazenados localmente em um banco **SQLite**, com estrutura prepa
 
 ![Streamlit Badge](https://img.shields.io/badge/streamlit-v1.2.0-703B26?style=flat&logo=streamlit&logoColor=703B26)
 
-
 ![SQLite Badge](https://img.shields.io/badge/sqlite-3.34.1-703B26?style=flat&logo=sqlite&logoColor=703B26)
 
 ![Pandas Badge](https://img.shields.io/badge/pandas-1.2.3-703B26?style=flat&logo=pandas&logoColor=703B26)
@@ -78,7 +77,6 @@ Os dados são armazenados localmente em um banco **SQLite**, com estrutura prepa
 
 ![Git Badge](https://img.shields.io/badge/git-2.30-703B26?style=flat&logo=git&logoColor=703B26)
 
-![GitHub Badge](https://img.shields.io/badge/github-Attention-703B26?style=flat&logo=github&logoColor=white)
 
 ---
 
