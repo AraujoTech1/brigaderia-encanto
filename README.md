@@ -18,11 +18,11 @@ O **Brigaderia Encanto** permite o cadastro do cliente e a visualização de ped
 
 |**Brigadeiro**                                                  |   **Sabor**                  |
 | -------------------------------------------------------------- | ----------------------------|
-| <img src="imagens/tradicional.png" width="80" height="80">      | **Tradicional**             |
-| <img src="imagens/nutella.png" width="80" height="80">          | **Nutella**                 |
-| <img src="imagens/brigadeiro_com_morango.png" width="80" height="80"> | **Brigadeiro com Morango**  |
-| <img src="imagens/brigadeiro_com_castanha.png" width="80" height="80"> | **Brigadeiro com Castanha** |
-| <img src="imagens/brigadeiro_com_amendoim.png" width="80" height="80"> | **Brigadeiro com Amendoim** |
+| <img src="imagens/tradicional.png" width="100" height="100">      | **Tradicional**             |
+| <img src="imagens/nutella.png" width="100" height="100">          | **Nutella**                 |
+| <img src="imagens/brigadeiro_com_morango.png" width="100" height="100"> | **Brigadeiro com Morango**  |
+| <img src="imagens/brigadeiro_com_castanha.png" width="100" height="100"> | **Brigadeiro com Castanha** |
+| <img src="imagens/brigadeiro_com_amendoim.png" width="100" height="100"> | **Brigadeiro com Amendoim** |
 
 
 - Quantidade de unidades
@@ -47,11 +47,11 @@ Os dados são armazenados localmente em um banco **SQLite**, com estrutura prepa
 ## 🟫 Teste
 
 <p align="center">
-  <img src="./imagens/teste1.png" width="550" />
+  <img src="./imagens/teste1.png" width="750" />
 </p>
 
 <p align="center">
-  <img src="./imagens/teste2.png" width="550" />
+  <img src="./imagens/teste2.png" width="750" />
 </p>
 
 ---
