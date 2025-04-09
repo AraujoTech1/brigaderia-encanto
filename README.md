@@ -58,35 +58,26 @@ Os dados são armazenados localmente em um banco **SQLite**, com estrutura prepa
 
 ## 🟫 Tecnologias Utilizadas
 
-- **Linguagem**:
 
 ![Python Badge](https://img.shields.io/badge/python-3.9-703B26?style=flat&logo=python&logoColor=703B26)
 
-- **Framework Web**: 
-
 ![Streamlit Badge](https://img.shields.io/badge/streamlit-v1.2.0-703B26?style=flat&logo=streamlit&logoColor=703B26)
 
-- **Banco de Dados Local**: 
 
 ![SQLite Badge](https://img.shields.io/badge/sqlite-3.34.1-703B26?style=flat&logo=sqlite&logoColor=703B26)
 
-- **Bibliotecas**:
+![Pandas Badge](https://img.shields.io/badge/pandas-1.2.3-703B26?style=flat&logo=pandas&logoColor=703B26)
 
-  - ![Pandas Badge](https://img.shields.io/badge/pandas-1.2.3-703B26?style=flat&logo=pandas&logoColor=703B26)
-  - ![Datetime Badge](https://img.shields.io/badge/datetime-4.3-703B26?style=flat&logoColor=703B26)
-  - ![SQLite3 Badge](https://img.shields.io/badge/sqlite3-3.35.0-703B26?style=flat&logoColor=703B26)
+![Datetime Badge](https://img.shields.io/badge/datetime-4.3-703B26?style=flat&logoColor=703B26)
 
-- **Ambiente Virtual**: 
+![SQLite3 Badge](https://img.shields.io/badge/sqlite3-3.35.0-703B26?style=flat&logoColor=703B26)
 
 ![Venv Badge](https://img.shields.io/badge/venv-virtualenv-703B26?style=flat&logoColor=703B26)
 
-- **IDE**: 
-
 ![VSCode Badge](https://img.shields.io/badge/vscode-1.56-703B26?style=flat&logo=visualstudiocode&logoColor=703B26)
 
-- **Controle de Versão**: 
-
 ![Git Badge](https://img.shields.io/badge/git-2.30-703B26?style=flat&logo=git&logoColor=703B26)
+
 ![GitHub Badge](https://img.shields.io/badge/github-Attention-703B26?style=flat&logo=github&logoColor=white)
 
 ---
