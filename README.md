@@ -87,7 +87,7 @@ Os dados são armazenados localmente em um banco **SQLite**, com estrutura prepa
 - **Controle de Versão**: 
 
 ![Git Badge](https://img.shields.io/badge/git-2.30-703B26?style=flat&logo=git&logoColor=703B26)
-![GitHub Badge](https://img.shields.io/badge/github-Attention-181717?style=flat&logo=github&logoColor=white)
+![GitHub Badge](https://img.shields.io/badge/github-Attention-703B26?style=flat&logo=github&logoColor=white)
 
 ---
 
